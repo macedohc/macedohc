@@ -1,4 +1,4 @@
-<img src = "1_KlNlGjWBb0mScNgnX9Uxjw.gif" width = "325px" align = "right">
+<img src = "github-1.gif" width = "325px" align = "right">
 
 ### ✨ Oie! Me chamo Hellen e é bom ter você por aqui 🌼👋
 
