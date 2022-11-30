@@ -1,10 +1,11 @@
-<img src = "previewfile_2217383700.gif" width = "225px" align = "right">
+<img src = "1_KlNlGjWBb0mScNgnX9Uxjw.gif" width = "325px" align = "right">
+
 ### ✨ Oie! Me chamo Hellen e é bom ter você por aqui 🌼👋
 
- ◼ 🚀 Iniciando minha carreira na área de T.I
- ◼ 🎓 Cursando Tecnologia da Informação - UNIVESP
- ◼ 👨‍💻 Conhecimentos em .NET, SQL, C#, JS, Node e React
- ◼
+ - 🚀 Iniciando minha carreira na área de T.I
+ - 🎓 Cursando Tecnologia da Informação - UNIVESP
+ - 👨‍💻 Conhecimentos em .NET, SQL, C#, JS, Node e React
+ -
 
 <div>
   <a href="https://github.com/macedohc">
