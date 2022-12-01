@@ -13,8 +13,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="file:///C:/Users/helle/Downloads/plsql-svgrepo-com.svg title="SQL" alt="SQL" width="40" height="40"/>
- 
+  <img src = "icons8-logo-mysql-48" alt="SQL" width="40" height="40"/>
+  <img src = "icons8-microsoft-sql-server-48" alt="MYSql" width="40" height="40"/>
    <br></br>
 </div>
   
