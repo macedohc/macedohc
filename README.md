@@ -4,7 +4,6 @@
 
  - 🚀 Iniciando minha carreira na área de T.I
  - 🎓 Cursando Tecnologia da Informação - UNIVESP
- - 🌍 Aprendendo Front-end e posteriormente Back-end
  
 
 <div style="display: inline_block"><br>
