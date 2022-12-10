@@ -4,7 +4,6 @@
 
  - 🚀 Iniciando minha carreira na área de T.I
  - 🎓 Cursando Tecnologia da Informação - UNIVESP
- 
 
 <div style="display: inline_block"><br>
  
@@ -29,11 +28,11 @@
   ![Snake animation](https://github.com/Fe-grr/Fe-grr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
-<div>
-  <a href="https://github.com/macedohc"> <br></br>
+<a href="https://github.com/macedohc"> <br></br>
     <img height="170em"
       src="https://github-readme-stats.vercel.app/api?username=macedohc&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/> 
     <img height="170em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=macedohc&layout=compact&langs_count=7&theme=omni"/>
+<div>
+  
 </div>
